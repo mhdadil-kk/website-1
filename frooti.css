@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    position: static;
+}
+header{
+    background-color: #0a0b27;
+    width: 100%;
+    height: 70px;
+   position: fixed;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    height: 26px;
+    font-size: 16px;
+    padding-left: 26px;
+
+}
+.wirtting{
+
+    letter-spacing: 10px;
+
+
+}
+.writting a{
+     text-decoration: none;
+    color: white;
+    font-family: sans-serif; 
+    padding-right: 30px;
+    letter-spacing: 2px; 
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    padding-right: 32px;
+     padding-left: 1px; 
+    letter-spacing: 1.5px;
+    transition: 1s;
+    margin-right: -2px;
+
+}
+.writting a:hover{
+    color: red;
+}
+.wirtting i{
+    padding-right: 100px;
+    margin-right: 10px;
+}
+
+.fa-solid fa-caret-down{
+
+  position: absolute;
+  padding-right: 10px;
+}
+main{
+    width: 100%;
+}
+.image1{
+    width: 100%;
+
+}
+.image1 img{
+    width: 100%;
+    height: 815.3px;
+}
+.left-section{
+    width: 29%;
+    background: rgb(240, 145, 48);
+    display: flex;
+    margin-top: -4px;
+    padding-left: 21%;
+    height: 1428px;
+    display: inline-block;
+    display: flex;
+}
+.left-section img{
+
+
+    width: 187px;
+    height: 577px;
+    margin-top: 445px;
+    margin-left: -61px;
+}
+
+
+.settings{
+    color: #fff;
+    margin-left: -251px;
+    font-size: xxx-large;
+    margin-top: 555px;
+    text-align: center;
+}
+.right-section{
+   margin-left: 250px;
+   justify-content: flex-start;
+}
+
+.right-section p{
+
+    width: 39%;
+    float: right;
+    margin-top: -1271px;
+    margin-bottom: 10px;
+    font-family: 'Mirava Personal Use Only', sans-serif;
+    font-size: 24px;
+    line-height: 1.2;                       
+   word-spacing: 10px;
+   padding-right: 133px;
+}
+.right-section img{
+    text-align: center;
+    float: right;
+
+}
+.part-3 img{
+      width: 100%;
+
+}
+.middle-icon{
+    display: flex;
+    margin-left: 885px;
+    margin-top: -331px;
+
+}
+.middle-icon img{
+    margin-top: 10px;
+    padding-left: 10px;
+}
+footer{
+    background-color: #fff;
+    width: 80%;
+    height: 246.75px;
+   padding-top: 10px;
+}
+.inner-footer{
+    display: flex;
+    justify-content: space-between;
+    margin-right: -91px;
+}
+.inner-footer p{
+    font-size: 14px;
+    font-family: 'Mirava Personal Use Only', sans-serif;
+    line-height: 1.2;
+    color: #0a0b27;
+    text-align: left;
+    padding-bottom: 10px;
+    transition: all .5s ease-in;
+    margin-left: 65px;
+    margin-top: 37px;
+
+}
+.inner-footer a{
+    font-size: 14px;
+    font-family: 'Mirava Personal Use Only', sans-serif;
+    line-height: 1.2;
+    color: #0a0b27;
+    text-align: left;
+    padding-bottom: 10px;
+    transition: all .5s ease-in;
+    margin-left: 65px;
+    margin-top: 37px;
+    text-decoration: none;
+    font-weight: 50px;
+
+
+}
+.second a{
+    line-height: 25px;
+    font-size: 14.4px;
+    font-family: 'Mirava Personal Use Only', sans-serif;
+}
+.second a:hover{
+    color: red;
+    transition: 0.5s;
+    text-decoration: underline;
+}
+.third p{
+    line-height: 14.5px;
+}
+.last-logo{
+    display: flex;
+   position: absolute;
+    height: 25px;
+    margin-left: 1030px;
+}
+.last-logo img{
+    position: relative;
+    padding-left: 9px;
+    cursor: pointer;
+
+}
+#abc strong:hover{
+    color: red;
+    transition: 0.5s;
+    text-decoration: underline;
+}    
